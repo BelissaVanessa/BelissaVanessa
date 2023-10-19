@@ -9,6 +9,11 @@ I'm a front-end web developer from João pessoa/PB-BR. I'm focused on improving 
 <h3>Connect with me:</h3>
 I regularly post about my coding journey and learning process on instagram, @ dev.trekkers,(follow us to check it out!) that I share with a partner.
 
+<div>
+<a href="https://www.instagram.com/dev.trekkers/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 ## Stacks
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
