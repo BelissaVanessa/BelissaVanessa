@@ -1,4 +1,5 @@
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
+# Hello
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 Hey, I'm Belissa,  front-end web developer from João pessoa/PB-BR. I'm focused on improving my programming skills, because I love coding  and create  nice websites and make them look amazing .
 I regularly post about my   coding journey  and learning process on instagram , @ dev.trekkers,  that I share with a partner.
@@ -10,4 +11,4 @@ I regularly post about my   coding journey  and learning process on instagram , 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
 
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
+
